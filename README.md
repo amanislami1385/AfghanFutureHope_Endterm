@@ -100,6 +100,6 @@ Group: IT-2510
 
 ## Submission details to complete
 
-GitHub repository: [Add your existing Midterm repository URL]
+GitHub repository: https://github.com/amanislami1385/AfghanFutureHope_Endterm.git
 
 Live website: [Add your GitHub Pages URL]
